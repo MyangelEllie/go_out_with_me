@@ -40,6 +40,7 @@ body {
     display: flex;
     justify-content: center;
     gap: 15px;
+    size: 200%;
 }
 
 .btn {
